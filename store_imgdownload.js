@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         商详图片下载助手 - 京东丨淘宝丨天猫
-// @namespace    
+// @namespace    https://github.com/Jonxinxin/store_imgdownload
 // @version      0.0.1
 // @description  可以直接下载视频的主图、视频和详情页
-// @author       ykcory
+// @author       sudoxin
 // @license      MIT
 // @match        *://item.jd.com/*
 // @match        *://detail.tmall.com/*
